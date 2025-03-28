@@ -1,4 +1,4 @@
-> A list of funny and tricky JavaScript examples.Collected from -wtfjs
+### A list of funny and tricky JavaScript examples are collected from -wtfjs
 
 JavaScript is a great language. It has a simple syntax, large ecosystem and, what is most important, a great community.
 
