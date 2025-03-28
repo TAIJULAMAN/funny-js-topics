@@ -1,4 +1,4 @@
-### A list of funny and tricky JavaScript examples are collected from -wtfjs
+# A list of funny and tricky JavaScript examples are collected from -wtfjs
 
 JavaScript is a great language. It has a simple syntax, large ecosystem and, what is most important, a great community.
 
@@ -2174,35 +2174,3 @@ So this comparison is performed like this:
 - [Wat](https://www.destroyallsoftware.com/talks/wat) — A lightning talk by Gary Bernhardt from CodeMash 2012
 - [What the... JavaScript?](https://www.youtube.com/watch?v=2pL28CcEijU) — Kyle Simpsons talk for Forward 2 attempts to “pull out the crazy” from JavaScript. He wants to help you produce cleaner, more elegant, more readable code, then inspire people to contribute to the open source community.
 - [Zeros in JavaScript](http://zero.milosz.ca/) — a comparison table of `==`, `===`, `+` and `*` in JavaScript.
-
-# 🤝 Supporting
-
-Hi! I work on this project in my spare time, in addition to my primary job. I hope you enjoy reading it. If you do, please, consider supporting me 🙏.
-
-Every single donation is important. Your donation is gonna make a clear statement: My work is valued.
-
-**🙏 Thank you for your support! 🙏**
-
-| Service          |                     Link                     |                                                                   Action                                                                   |
-| ---------------- | :------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------: |
-| **Patreon**      |        [Become a patron][patreon-url]        | <a href="https://patreon.com/denysdovhan"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="120px"></a> |
-| **BuyMeACoffee** |     [Buy me a cup of ☕️ or 🥤][bmc-url]     |    <a href="https://buymeacoffee.com/denysdovhan"><img src="https://cdn.buymeacoffee.com/buttons/default-black.png" width="120px"></a>     |
-| **Bitcoin**      |     `1EJsKs6rPsqa7QLoVLpe3wgcdL9Q8WmDxE`     |      <img src="https://user-images.githubusercontent.com/3459374/107130426-0ae4f800-68d6-11eb-9b86-15bf33467615.png" width="120px"/>       |
-| **Ethereum**     | `0x6aF39C917359897ae6969Ad682C14110afe1a0a1` |      <img src="https://user-images.githubusercontent.com/3459374/107130370-55b24000-68d5-11eb-93f5-075355c7fcd4.png" width="120px"/>       |
-
-> **⚠️ Note:** I live in Ukraine and services like PayPal and Stripe don't work with Ukrainian bank accounts. This means there's no way for me to set up GitHub Sponsors, OpenCollective, or services relied on them. Sorry, those are the only ways you can support me for now.
-
-# 🎓 License
-
-[![CC 4.0][license-image]][license-url]
-
-&copy; [Denys Dovhan](http://denysdovhan.com)
-
-[license-url]: http://www.wtfpl.net
-[license-image]: https://img.shields.io/badge/License-WTFPL%202.0-lightgrey.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/wtfjs
-[npm-image]: https://img.shields.io/npm/v/wtfjs.svg?style=flat-square
-[patreon-url]: https://patreon.com/denysdovhan
-[patreon-image]: https://img.shields.io/badge/support-patreon-F96854.svg?style=flat-square
-[bmc-url]: https://patreon.com/denysdovhan
-[bmc-image]: https://img.shields.io/badge/support-buymeacoffee-222222.svg?style=flat-square
